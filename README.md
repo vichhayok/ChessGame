@@ -1,6 +1,6 @@
 # ChessGame
 
-A simple chess game written in java.
+A simple chess game written in java. Check out the corresponding medium blog post [https://medium.com/@abhinav.sagar/how-to-write-a-chess-game-from-scratch-in-java-e14c69161493](https://medium.com/@abhinav.sagar/how-to-write-a-chess-game-from-scratch-in-java-e14c69161493).
 
 ## Features
 
