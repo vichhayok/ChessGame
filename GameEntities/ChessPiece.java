@@ -13,7 +13,7 @@ public abstract class ChessPiece implements ChessPieceInterface {
     protected ChessGame chessGame;
     protected String owner;
     protected ChessLocation chessLocation;
-    protected char id;
+    protected String id;
     protected ArrayList<ChessLocation> threateningLocations;
 
     protected abstract void updateThreateningLocation();
@@ -203,7 +203,7 @@ public abstract class ChessPiece implements ChessPieceInterface {
      * Gets the id of the piece.
      * @return Char of the id.
      */
-    public char getId() {
+    public String getId() {
         return id;
     }
 
